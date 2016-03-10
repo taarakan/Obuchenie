@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1457598073 source:d:\project_c\calculation\calc.c
+	"calc.h"
+
+1457597918 d:\project_c\calculation\calc.h
+
+1457600576 source:d:\project_c\calculation\main.c
+	<stdio.h>
+	"calc.h"
+
