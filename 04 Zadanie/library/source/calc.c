@@ -1,5 +1,4 @@
-//Файл  с функциями калькулятора
-#include "calc.h"
+
 int add(int i1, int i2)
 {int a;
     a=i1+i2;
